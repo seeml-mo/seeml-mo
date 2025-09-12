@@ -2,7 +2,7 @@
 - 🔭 I’m currently studying in CUHK
 - 👯 I’m looking to collaborate on ELITE Stream Projects
       contact me any time if you're in ESTR3108 and ESTR2106
-- 😄 Preferred Pronoun: She
+- 😄 Preferred Pronoun: She/ Her
 - ⚡ Fun fact: I'm a big fan of Eden in ES!! Please feel free to leave any message in my Whimsical whenever you want.
 <!--
 **seeml-mo/seeml-mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
