@@ -1,5 +1,5 @@
 ## A Green Hand
-- 🔭 I’m currently studying in CUHK
+- 🔭 I’m currently studying in CUHK(exchange at NUS)
 - 👯 I’m looking to collaborate on ELITE Stream Projects
 -       contact me any time if you're in ESTR3108 and ESTR2106
 -       Meet me on Kaggle(
