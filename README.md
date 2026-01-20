@@ -1,10 +1,8 @@
 ## A Green Hand
-- 🔭 I’m currently studying in CUHK(exchange at NUS)
-- 👯 I’m looking to collaborate on ELITE Stream Projects
--       contact me any time if you're in ESTR3108 and ESTR2106
--       Meet me on Kaggle(
+- 🔭 I’m currently on an exchange programme at National University of Singapore(NUS)
+- 👯 I’m a Year 3 Computer Science student from CUHK(ELITE Stream)
 - 😄 Preferred Pronoun: She/ Her
-- ⚡ Fun fact: I'm a big fan of Eden in ES!! My repository Whimsical cannot be commented, but you can leave your message on issues if you would like to contact me)
+- ⚡ Fun fact: I'm a big fan of Eden in ES!! and My repositories Whimsical and Tomoe Hiyori is out of such an interest(to be polished)
 <!--
 **seeml-mo/seeml-mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
